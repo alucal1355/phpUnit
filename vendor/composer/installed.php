@@ -3,7 +3,7 @@
         'name' => 'curso/p1',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '35b93fc70d581dfdc2002c49cbbd9284bbb6adbc',
+        'reference' => 'e267bb1e55f7095b1b48f833e4b8e5fec3b1a757',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'curso/p1' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '35b93fc70d581dfdc2002c49cbbd9284bbb6adbc',
+            'reference' => 'e267bb1e55f7095b1b48f833e4b8e5fec3b1a757',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

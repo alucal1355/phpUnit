@@ -5,9 +5,9 @@
         },
         "require": {},
         "autoload": {
-        "psr-4": {
-        "": "src/",
-        "Test\\Unit\\": "tests/unit"
+            "psr-4": {
+            "": "src/",
+            "Test\\Unit\\": "tests/unit"
+            }
         }
-    }
 }
